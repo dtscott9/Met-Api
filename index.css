@@ -1,0 +1,15 @@
+form{
+    display: grid;
+    grid-template-columns: auto;
+    padding: 1em;
+    width: 300px;
+}
+
+form label {
+    margin-top: 10px;
+}
+
+form input {
+    height: 25px;
+}
+
